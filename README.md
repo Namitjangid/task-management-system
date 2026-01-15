@@ -3,8 +3,8 @@ allows users to sign up, log in, and manage their personal tasks.
 Each user can create, view, update, and delete tasks securely.
 
 Functions: 
--Frontend handles UI and authentication 
--Backend handles all database operations 
+-Frontend handle UI,authentication 
+-Backend handle database operations 
 -Supabase Row Level Security (RLS) ensures data isolation between users
 
 Features: 
